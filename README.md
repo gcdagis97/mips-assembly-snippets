@@ -1,2 +1,2 @@
 # mips-assembly-snippets
-Basic MIPS Programs
+Basic MIPS programs (typically building blocks for bigger projects).
